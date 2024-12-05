@@ -9,3 +9,5 @@ const add = (numbers) => {
 console.log(add("6"))
 console.log(add("6,7"))
 console.log(add("1,1"))
+
+console.log(add("1,2,3,4,5"))   // handle multiple amount of digits
